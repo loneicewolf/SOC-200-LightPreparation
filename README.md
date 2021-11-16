@@ -4,8 +4,12 @@ https://www.offensive-security.com/soc200-osda/
 
 Note taking apps I will make use of:
 ## Trillium
-## Obsidian (in a enclosed-qube in qubes os) (since it's not open source)
+
+## Obsidian
+    (in a enclosed-qube in qubes os) (since it's not open source)
+
 ## CherryTree
+
 ## Joplin
 
 
